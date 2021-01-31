@@ -1,0 +1,21 @@
+$bg-color: purple;
+$div-height: 75px;
+$div-width: 100px;
+
+
+@for $i from 1 through 10 {
+  #box-#{$i} {
+    background-color: adjust-hue($bg-color, $i * 20);
+    height: $div-height;
+    width: $div-width;
+    margin-left: 10px;
+    display: inline-block;
+
+      &:hover {
+        background-color: lighten(adjust-hue($bg-color, $i * 20), 20%);
+        
+      }
+
+
+  }
+}

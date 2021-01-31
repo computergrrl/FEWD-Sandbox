@@ -1,0 +1,111 @@
+#box-1 {
+  background-color: #800055;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-1:hover {
+  background-color: #e60099;
+}
+
+#box-2 {
+  background-color: #80002b;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-2:hover {
+  background-color: #e6004d;
+}
+
+#box-3 {
+  background-color: maroon;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-3:hover {
+  background-color: #e60000;
+}
+
+#box-4 {
+  background-color: #802b00;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-4:hover {
+  background-color: #e64d00;
+}
+
+#box-5 {
+  background-color: #805500;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-5:hover {
+  background-color: #e69900;
+}
+
+#box-6 {
+  background-color: olive;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-6:hover {
+  background-color: #e6e600;
+}
+
+#box-7 {
+  background-color: #558000;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-7:hover {
+  background-color: #99e600;
+}
+
+#box-8 {
+  background-color: #2b8000;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-8:hover {
+  background-color: #4de600;
+}
+
+#box-9 {
+  background-color: green;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-9:hover {
+  background-color: #00e600;
+}
+
+#box-10 {
+  background-color: #00802b;
+  height: 75px;
+  width: 100px;
+  margin-left: 10px;
+  display: inline-block;
+}
+#box-10:hover {
+  background-color: #00e64d;
+}
+
+/*# sourceMappingURL=styles.css.map */
